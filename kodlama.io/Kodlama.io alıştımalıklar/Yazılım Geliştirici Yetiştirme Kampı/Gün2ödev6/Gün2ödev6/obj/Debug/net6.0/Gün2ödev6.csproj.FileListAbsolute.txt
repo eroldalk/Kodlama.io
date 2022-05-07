@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\bin\Debug\net6.0\Gün2ödev6.exe
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\bin\Debug\net6.0\Gün2ödev6.deps.json
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\bin\Debug\net6.0\Gün2ödev6.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\bin\Debug\net6.0\Gün2ödev6.dll
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\bin\Debug\net6.0\ref\Gün2ödev6.dll
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\bin\Debug\net6.0\Gün2ödev6.pdb
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\obj\Debug\net6.0\Gün2ödev6.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\obj\Debug\net6.0\Gün2ödev6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\obj\Debug\net6.0\Gün2ödev6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\obj\Debug\net6.0\Gün2ödev6.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\obj\Debug\net6.0\Gün2ödev6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\obj\Debug\net6.0\Gün2ödev6.dll
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\obj\Debug\net6.0\ref\Gün2ödev6.dll
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\obj\Debug\net6.0\Gün2ödev6.pdb
+C:\Users\Lenovo\Desktop\Gün2ödev6\Gün2ödev6\obj\Debug\net6.0\Gün2ödev6.genruntimeconfig.cache

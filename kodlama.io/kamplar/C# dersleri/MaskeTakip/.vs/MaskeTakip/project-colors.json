@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e16eea6e-4fba-45fe-b7e2-b73c0f8f5339": {
+      "ProjectGuid": "e16eea6e-4fba-45fe-b7e2-b73c0f8f5339",
+      "DisplayName": "Workaround",
+      "ColorIndex": 0
+    },
+    "4aae2f55-a0cc-4e59-9960-8a050b56c744": {
+      "ProjectGuid": "4aae2f55-a0cc-4e59-9960-8a050b56c744",
+      "DisplayName": "Entities",
+      "ColorIndex": 1
+    },
+    "f7c4c057-ed9f-46e3-9a98-87f91ad72370": {
+      "ProjectGuid": "f7c4c057-ed9f-46e3-9a98-87f91ad72370",
+      "DisplayName": "Business",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
