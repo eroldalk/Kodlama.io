@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\CsharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\Lenovo\Desktop\CsharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\Lenovo\Desktop\CsharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\Lenovo\Desktop\CsharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\CsharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CsharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\Lenovo\Desktop\CsharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

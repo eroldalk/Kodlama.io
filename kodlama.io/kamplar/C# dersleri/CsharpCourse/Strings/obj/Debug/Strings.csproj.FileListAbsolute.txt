@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\CsharpCourse\Strings\bin\Debug\Strings.exe.config
+C:\Users\Lenovo\Desktop\CsharpCourse\Strings\bin\Debug\Strings.exe
+C:\Users\Lenovo\Desktop\CsharpCourse\Strings\bin\Debug\Strings.pdb
+C:\Users\Lenovo\Desktop\CsharpCourse\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\CsharpCourse\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CsharpCourse\Strings\obj\Debug\Strings.exe
+C:\Users\Lenovo\Desktop\CsharpCourse\Strings\obj\Debug\Strings.pdb

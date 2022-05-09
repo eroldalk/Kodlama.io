@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\obj\Debug\RecapDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\Lenovo\Desktop\Csharp\RecapDemo1\obj\Debug\RecapDemo1.pdb

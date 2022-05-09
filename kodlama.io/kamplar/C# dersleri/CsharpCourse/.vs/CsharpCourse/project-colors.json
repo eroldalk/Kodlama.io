@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f88d192-104a-40ad-9a36-d0d6ee1a3f86": {
+      "ProjectGuid": "3f88d192-104a-40ad-9a36-d0d6ee1a3f86",
+      "DisplayName": "TypesAndVariables",
+      "ColorIndex": 0
+    },
+    "bcfc78cd-3404-446d-b1b5-2de7428eb285": {
+      "ProjectGuid": "bcfc78cd-3404-446d-b1b5-2de7428eb285",
+      "DisplayName": "Conditionals",
+      "ColorIndex": 1
+    },
+    "853ee2a7-d678-4a2d-b1e4-263571434cde": {
+      "ProjectGuid": "853ee2a7-d678-4a2d-b1e4-263571434cde",
+      "DisplayName": "Methods",
+      "ColorIndex": 2
+    },
+    "79b89ba8-9829-4103-ae81-8250e803100f": {
+      "ProjectGuid": "79b89ba8-9829-4103-ae81-8250e803100f",
+      "DisplayName": "Arrays",
+      "ColorIndex": 3
+    },
+    "6923af7a-f090-4996-824f-fd550d5918f7": {
+      "ProjectGuid": "6923af7a-f090-4996-824f-fd550d5918f7",
+      "DisplayName": "Loops",
+      "ColorIndex": 4
+    },
+    "5d583396-fca7-4d93-9ee5-2187fce7c5be": {
+      "ProjectGuid": "5d583396-fca7-4d93-9ee5-2187fce7c5be",
+      "DisplayName": "Strings",
+      "ColorIndex": 5
+    },
+    "54a8d4a4-0673-4f62-bf0c-f9743bd27045": {
+      "ProjectGuid": "54a8d4a4-0673-4f62-bf0c-f9743bd27045",
+      "DisplayName": "Classes",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a655b6d0-78c6-4dc6-99d9-abc5653c9188": {
+      "ProjectGuid": "a655b6d0-78c6-4dc6-99d9-abc5653c9188",
+      "DisplayName": "RecapDemo1",
+      "ColorIndex": 7
+    },
+    "c5a86ce3-cb90-451e-9be4-68fb8d6d8ea6": {
+      "ProjectGuid": "c5a86ce3-cb90-451e-9be4-68fb8d6d8ea6",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 8
+    },
+    "84162d8e-2cbf-4ad6-b6ad-bbc48b81aae7": {
+      "ProjectGuid": "84162d8e-2cbf-4ad6-b6ad-bbc48b81aae7",
+      "DisplayName": "InterfacesDemo",
+      "ColorIndex": 9
+    },
+    "1cc288bb-a050-423c-a70b-d7a439754974": {
+      "ProjectGuid": "1cc288bb-a050-423c-a70b-d7a439754974",
+      "DisplayName": "Inheritance",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
