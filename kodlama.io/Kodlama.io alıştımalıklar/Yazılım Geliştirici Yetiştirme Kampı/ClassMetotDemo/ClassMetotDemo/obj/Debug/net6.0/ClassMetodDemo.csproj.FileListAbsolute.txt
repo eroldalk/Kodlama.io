@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetodDemo.exe
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetodDemo.deps.json
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetodDemo.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetodDemo.dll
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ref\ClassMetodDemo.dll
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetodDemo.pdb
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetodDemo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetodDemo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetodDemo.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetodDemo.dll
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ref\ClassMetodDemo.dll
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetodDemo.pdb
+C:\Users\Lenovo\Desktop\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetodDemo.genruntimeconfig.cache
