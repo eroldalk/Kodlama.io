@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\bin\Debug\net6.0\Donguler.exe
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\bin\Debug\net6.0\Donguler.deps.json
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\bin\Debug\net6.0\Donguler.runtimeconfig.json
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\bin\Debug\net6.0\Donguler.dll
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\bin\Debug\net6.0\ref\Donguler.dll
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\bin\Debug\net6.0\Donguler.pdb
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\obj\Debug\net6.0\Donguler.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\obj\Debug\net6.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\obj\Debug\net6.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\obj\Debug\net6.0\Donguler.dll
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\obj\Debug\net6.0\ref\Donguler.dll
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\obj\Debug\net6.0\Donguler.pdb
+C:\Users\Lenovo\Desktop\KampIntro\Donguler\obj\Debug\net6.0\Donguler.genruntimeconfig.cache

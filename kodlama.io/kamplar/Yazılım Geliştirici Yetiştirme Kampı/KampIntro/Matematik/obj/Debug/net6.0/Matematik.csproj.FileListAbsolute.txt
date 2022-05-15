@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\bin\Debug\net6.0\Matematik.exe
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\bin\Debug\net6.0\Matematik.deps.json
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\bin\Debug\net6.0\Matematik.runtimeconfig.json
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\bin\Debug\net6.0\Matematik.dll
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\bin\Debug\net6.0\ref\Matematik.dll
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\bin\Debug\net6.0\Matematik.pdb
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\obj\Debug\net6.0\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\obj\Debug\net6.0\Matematik.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\obj\Debug\net6.0\Matematik.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\obj\Debug\net6.0\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\obj\Debug\net6.0\Matematik.dll
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\obj\Debug\net6.0\ref\Matematik.dll
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\obj\Debug\net6.0\Matematik.pdb
+C:\Users\Lenovo\Desktop\KampIntro\Matematik\obj\Debug\net6.0\Matematik.genruntimeconfig.cache

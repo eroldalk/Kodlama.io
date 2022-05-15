@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\bin\Debug\net6.0\DegerVeReferansTipler.exe
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\bin\Debug\net6.0\DegerVeReferansTipler.deps.json
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\bin\Debug\net6.0\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\bin\Debug\net6.0\DegerVeReferansTipler.dll
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\bin\Debug\net6.0\ref\DegerVeReferansTipler.dll
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\bin\Debug\net6.0\DegerVeReferansTipler.pdb
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\obj\Debug\net6.0\DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\obj\Debug\net6.0\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\obj\Debug\net6.0\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\obj\Debug\net6.0\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\obj\Debug\net6.0\DegerVeReferansTipler.dll
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\obj\Debug\net6.0\ref\DegerVeReferansTipler.dll
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\obj\Debug\net6.0\DegerVeReferansTipler.pdb
+C:\Users\Lenovo\Desktop\KampIntro\DegerVeReferansTipler\obj\Debug\net6.0\DegerVeReferansTipler.genruntimeconfig.cache
