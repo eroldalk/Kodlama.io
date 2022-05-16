@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\Metotlar\\Metotlar.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\Metotlar\\Metotlar.csproj",
       "projectName": "Metotlar",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\Metotlar\\Metotlar.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\Metotlar\\Metotlar.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\Metotlar\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\Metotlar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

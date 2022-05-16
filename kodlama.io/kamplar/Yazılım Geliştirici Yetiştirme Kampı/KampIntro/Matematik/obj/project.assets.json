@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\Matematik\\Matematik.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\Matematik\\Matematik.csproj",
       "projectName": "Matematik",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\Matematik\\Matematik.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\Matematik\\Matematik.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\Matematik\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\Matematik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

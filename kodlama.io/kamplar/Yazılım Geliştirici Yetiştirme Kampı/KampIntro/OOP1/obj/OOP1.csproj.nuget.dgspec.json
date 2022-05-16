@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\KampIntro\\OOP1\\OOP1.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\OOP1\\OOP1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\KampIntro\\OOP1\\OOP1.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\OOP1\\OOP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\OOP1\\OOP1.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\OOP1\\OOP1.csproj",
         "projectName": "OOP1",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\OOP1\\OOP1.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\OOP1\\OOP1.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\OOP1\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\OOP1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

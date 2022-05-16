@@ -1,61 +1,16 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "8dc329c6-52ce-438c-83ea-5d4161c118ca": {
-      "ProjectGuid": "8dc329c6-52ce-438c-83ea-5d4161c118ca",
-      "DisplayName": "KampIntro",
-      "ColorIndex": 0
-    },
-    "1e321a28-20b7-4d1d-ae1e-2ee57c1caf54": {
-      "ProjectGuid": "1e321a28-20b7-4d1d-ae1e-2ee57c1caf54",
-      "DisplayName": "Donguler",
-      "ColorIndex": 1
-    },
-    "7d83bed9-9207-41f8-8c0e-c5bd1f1328cd": {
-      "ProjectGuid": "7d83bed9-9207-41f8-8c0e-c5bd1f1328cd",
-      "DisplayName": "ClassIntro",
-      "ColorIndex": 2
-    },
-    "9972e2ff-4cc4-4cfb-9d70-0e77c1398e0b": {
-      "ProjectGuid": "9972e2ff-4cc4-4cfb-9d70-0e77c1398e0b",
-      "DisplayName": "Metotlar",
-      "ColorIndex": 3
-    },
-    "f352efa2-925e-4ef2-9c85-ef8944fc2d4b": {
-      "ProjectGuid": "f352efa2-925e-4ef2-9c85-ef8944fc2d4b",
-      "DisplayName": "Matematik",
-      "ColorIndex": 4
-    },
-    "ed5619fa-3adb-4d57-85db-3e2ed1f02147": {
-      "ProjectGuid": "ed5619fa-3adb-4d57-85db-3e2ed1f02147",
-      "DisplayName": "DegerVeReferansTipler",
-      "ColorIndex": 5
-    },
-    "e0f16913-7be3-4d07-b22e-634bd962a3e9": {
-      "ProjectGuid": "e0f16913-7be3-4d07-b22e-634bd962a3e9",
-      "DisplayName": "OOP1",
-      "ColorIndex": 6
-    },
-    "a23c6d7f-23dc-4eea-a53c-03077b1e5b98": {
-      "ProjectGuid": "a23c6d7f-23dc-4eea-a53c-03077b1e5b98",
-      "DisplayName": "OOP2",
-      "ColorIndex": 7
-    },
-    "3e5bd6ff-8f7d-4224-9bde-b2b49c17d817": {
-      "ProjectGuid": "3e5bd6ff-8f7d-4224-9bde-b2b49c17d817",
-      "DisplayName": "Koleksiyonlar",
-      "ColorIndex": 8
-    },
-    "424e4bb8-ee39-428c-a203-baa50e63b32d": {
-      "ProjectGuid": "424e4bb8-ee39-428c-a203-baa50e63b32d",
-      "DisplayName": "GenericsIntro",
-      "ColorIndex": 9
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     },
     "6324b109-1cb5-4516-bb2c-fdc37e522eec": {
       "ProjectGuid": "6324b109-1cb5-4516-bb2c-fdc37e522eec",
       "DisplayName": "OOP3",
-      "ColorIndex": 10
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 1
 }

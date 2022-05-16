@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\Donguler\\Donguler.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\Donguler\\Donguler.csproj",
       "projectName": "Donguler",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\Donguler\\Donguler.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\Donguler\\Donguler.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\KampIntro\\Donguler\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\Yazılım Geliştirici Yetiştirme Kampı\\KampIntro\\Donguler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
