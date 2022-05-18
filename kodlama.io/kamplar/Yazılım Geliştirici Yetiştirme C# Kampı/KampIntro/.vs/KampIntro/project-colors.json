@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6324b109-1cb5-4516-bb2c-fdc37e522eec": {
+      "ProjectGuid": "6324b109-1cb5-4516-bb2c-fdc37e522eec",
+      "DisplayName": "OOP3",
+      "ColorIndex": 0
+    },
+    "1135e649-be3a-46f8-b980-2db9cd8f4774": {
+      "ProjectGuid": "1135e649-be3a-46f8-b980-2db9cd8f4774",
+      "DisplayName": "GameProject",
+      "ColorIndex": 1
+    },
+    "3f9dc813-f597-4d46-8045-491ab6746cbc": {
+      "ProjectGuid": "3f9dc813-f597-4d46-8045-491ab6746cbc",
+      "DisplayName": "GameProject",
+      "ColorIndex": 2
+    },
+    "424e4bb8-ee39-428c-a203-baa50e63b32d": {
+      "ProjectGuid": "424e4bb8-ee39-428c-a203-baa50e63b32d",
+      "DisplayName": "GenericsIntro",
+      "ColorIndex": 3
+    },
+    "4b1b4231-ec8e-46de-b212-c7c459d35364": {
+      "ProjectGuid": "4b1b4231-ec8e-46de-b212-c7c459d35364",
+      "DisplayName": "Dictionary",
+      "ColorIndex": 4
+    },
+    "1e321a28-20b7-4d1d-ae1e-2ee57c1caf54": {
+      "ProjectGuid": "1e321a28-20b7-4d1d-ae1e-2ee57c1caf54",
+      "DisplayName": "Donguler",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

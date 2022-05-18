@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJLipH/FgbNzvnsyPiOXC46bIlAb+uwuh4e2azMZrlS2AYK7yeweQZmMLJR0NDnjpMbV/z4MP392LeGEqej6yg==",
+  "dgSpecHash": "LOPQoDeHKus0Rot8rYiIobgYCXcXBUFAD1QnFF8OpK3IBRxt00JaSMXSX+gyNnS+V9yx3QglAGTwOMR89J8H+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\MaskeTakip\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Kodlama.io\\kodlama.io\\kamplar\\C# dersleri\\MaskeTakip\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
