@@ -1,0 +1,68 @@
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\GameProject.exe
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\GameProject.deps.json
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\GameProject.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\GameProject.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\ref\GameProject.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\GameProject.pdb
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\obj\Debug\net6.0\ref\GameProject.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.pdb
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\GameProject.exe
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\GameProject.deps.json
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\GameProject.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\GameProject.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\ref\GameProject.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\GameProject.pdb
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\obj\Debug\net6.0\ref\GameProject.dll
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.pdb
+C:\Users\Lenovo\Desktop\Kodlama.io\kodlama.io\kamplar\Yazılım Geliştirici Yetiştirme C# Kampı\KampIntro\GameProject\obj\Debug\net6.0\GameProject.genruntimeconfig.cache
